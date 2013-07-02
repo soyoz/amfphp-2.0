@@ -1,10 +1,10 @@
 {
-    "name": "silexlabs/amfphp",
+    "name": "soyoz/amfphp-2.0",
     "description": "Simple Remoting for Web Applications",
     "authors": [
         {
-            "name": "Ariel Sommeria",
-            "email": "ariel@silexlabs.org" 
+            "name": "Erol Soyoz",
+            "email": "erol@soyoz.com"
         }
     ],
     "autoload": {

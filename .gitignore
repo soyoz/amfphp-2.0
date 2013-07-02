@@ -62,3 +62,5 @@ Amfphp/Plugins/BaguetteAmf/BaguetteAmf.php
 .DS_Store
 
 AmfphpFlexUnit/src/FlexUnitCompilerApplication.mxml
+
+/vendor/
